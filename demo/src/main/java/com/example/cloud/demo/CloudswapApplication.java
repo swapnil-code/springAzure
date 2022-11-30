@@ -1,0 +1,13 @@
+package com.example.cloud.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CloudswapApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CloudswapApplication.class, args);
+	}
+
+}
